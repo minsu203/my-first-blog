@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0c47d6f-8001-4e24-a176-48e45c6a580d" name="Default Changelist" comment="" />
+    <list default="true" id="b0c47d6f-8001-4e24-a176-48e45c6a580d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/blog/migrations" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -28,6 +34,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kms00\djangogirls\mysite\blog\migrations" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kms00\djangogirls" />
     </key>
@@ -43,7 +52,8 @@
       <workItem from="1607423401216" duration="131000" />
       <workItem from="1607423545707" duration="1462000" />
       <workItem from="1608629205161" duration="1894000" />
-      <workItem from="1608631125550" duration="2683000" />
+      <workItem from="1608631125550" duration="5488000" />
+      <workItem from="1609243664476" duration="328000" />
     </task>
     <servers />
   </component>
@@ -60,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
